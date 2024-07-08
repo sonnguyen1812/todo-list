@@ -159,7 +159,7 @@ body {
 }
 
 .confirm-edit, .cancel-edit {
-    background-color: #5a95ff; /* or another color you prefer */
+    background-color: #5a95ff; 
     color: #ffffff;
     border: none;
     border-radius: 0.5em;
@@ -171,5 +171,5 @@ body {
 }
 
 .cancel-edit {
-    background-color: #ff5c5c; /* or another color you prefer */
+    background-color: #ff5c5c; 
 }
